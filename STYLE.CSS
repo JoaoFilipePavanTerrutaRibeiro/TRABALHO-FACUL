@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(115deg, #15a0f0, #5b2a8b);
+    color: #000000;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+h2 {
+     font-family: 'Roboto', sans-serif;
+    color: #001aff;
+    margin-bottom: 20px;
+}
+
+section {
+    background: white;
+    padding: 10px;
+    margin-bottom: 40px;
+    border-radius: 25px;
+}
+
+a {
+    color: #6129e6;
+    text-decoration: none;
+    font-weight: 1000;
+}
+
+#contatos {
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color: rgb(49, 52, 54);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: mintcream;
+}
+
+img {
+    border-radius: 5%;
+    width: 300px;
+    height: 300px;
+}
+header {
+    padding: 20px;
+    text-align: center;
+}
